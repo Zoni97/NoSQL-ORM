@@ -1,7 +1,0 @@
-spring:
-  data:
-    mongodb:
-      username: sonia
-      database: develhope
-      password: asdfghjkl
-      host: 192.168.1.90
